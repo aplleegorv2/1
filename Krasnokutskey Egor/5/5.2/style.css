@@ -1,0 +1,22 @@
+.d1 { position: absolute ;
+    height: 70px;
+        }
+ .d2 {position: absolute ;;
+     height: 30px;
+        margin-top: 70px
+        }
+        .d3 {position: absolute ;
+            height: 930px;
+            margin-top: 100px;
+            margin-left: 50%;
+        }
+        .d4 {position: absolute ;
+            height: 3000px; 
+            margin-top: 150px;
+            margin-left: 200px;
+        }
+        .d5 {position: absolute ;
+            height: 55px;
+            margin-top: 150px;
+            
+        }

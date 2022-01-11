@@ -1,0 +1,41 @@
+.d1 { color: rgb(0, 0, 0) ;
+    border: 2px solid rgb(0, 0, 0);
+    position: absolute ;} 
+.d2 {color: rgb(255, 217, 0);
+    border: 2px solid rgb(255, 217, 0);
+    position: absolute ;} 
+.d3 {color: rgb(4, 81, 224);
+    border: 2px solid rgb(4, 81, 224);
+    position: absolute ;}  
+.d4 {color: rgb(197, 0, 247);
+    border: 2px solid rgb(197, 0, 247);
+    position: absolute ;} 
+.d5 {color: rgb(17, 184, 73);
+    border: 2px solid rgb(17, 184, 73);
+position: absolute ;} 
+    .d1 {
+        width: 100px;
+        height: 95px;
+    }
+    .d2 {
+        width: 100px;
+        height: 80px;
+        margin-top: 101px
+    }
+    .d3 {
+        width: 100px;
+        height: 53px;
+        margin-left: 105px;
+    }
+    .d4 {
+        width: 100px;
+        height: 60px;
+        margin-top: 59px;
+        margin-left: 105px;
+    }
+    .d5 {
+        width: 100px;
+        height: 55px;
+        margin-top: 126px;
+        margin-left: 105px;
+    }
